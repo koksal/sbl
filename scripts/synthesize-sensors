@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./scripts/set-program-and-spec Sensors sensors
+sbt "run --solve"

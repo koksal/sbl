@@ -1,0 +1,9 @@
+n1,n2,radio
+H,H,on,CC,CD,DC
+L,L,on,CC,CD,DC
+H,L,on,CD
+L,H,on,DC
+H,H,off,CC
+L,L,off,CC
+H,L,off,CC
+L,H,off,CC

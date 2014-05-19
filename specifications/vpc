@@ -1,0 +1,49 @@
+ac,lin12,lin15,let23,lst,sem5,let60,mpk1
+ Formed,wt,wt,wt,wt,wt,wt,wt,332123
+ Formed,wt,wt,wt,ko,wt,wt,wt,331113
+ Formed,wt,wt,ko,wt,wt,wt,wt,333333
+ Formed,wt,wt,ko,ko,wt,wt,wt,333333
+ Formed,wt,ko,wt,wt,wt,wt,wt,112121,122121,212121
+ Formed,wt,ko,wt,ko,wt,wt,wt,111111
+ Formed,wt,ko,ko,wt,wt,wt,wt,333333
+ Formed,wt,ko,ko,ko,wt,wt,wt,333333
+ Formed,ko,wt,wt,wt,wt,wt,wt,331113
+ Formed,ko,wt,wt,ko,wt,wt,wt,331113
+ Formed,ko,wt,ko,wt,wt,wt,wt,333333
+ Formed,ko,wt,ko,ko,wt,wt,wt,333333
+ Formed,ko,ko,wt,wt,wt,wt,wt,111111
+ Formed,ko,ko,wt,ko,wt,wt,wt,111111
+ Formed,ko,ko,ko,wt,wt,wt,wt,333333
+ Formed,ko,ko,ko,ko,wt,wt,wt,333333
+ Formed,gf,wt,wt,wt,wt,wt,wt,222122
+ Formed,gf,wt,wt,ko,wt,wt,wt,221112
+ Formed,gf,wt,ko,wt,wt,wt,wt,222222
+ Formed,gf,wt,ko,ko,wt,wt,wt,222222
+ Formed,gf,ko,wt,wt,wt,wt,wt,112121,122121,212121
+ Formed,gf,ko,wt,ko,wt,wt,wt,111111
+ Formed,gf,ko,ko,wt,wt,wt,wt,222222
+ Formed,gf,ko,ko,ko,wt,wt,wt,222222
+Ablated,wt,wt,wt,wt,wt,wt,wt,333333
+Ablated,wt,wt,wt,ko,wt,wt,wt,333333
+Ablated,wt,wt,ko,wt,wt,wt,wt,333333
+Ablated,wt,wt,ko,ko,wt,wt,wt,333333
+Ablated,wt,ko,wt,wt,wt,wt,wt,111111,111112,111121,111211,111212,111221,112111,112112,112121,112211,112212,121111,121112,121121,121211,121212,121221,122111,122112,122121,211111,211112,211121,211211,211212,211221,212111,212112,212121,212211,212212
+Ablated,wt,ko,wt,ko,wt,wt,wt,111111
+Ablated,wt,ko,ko,wt,wt,wt,wt,333333
+Ablated,wt,ko,ko,ko,wt,wt,wt,333333
+Ablated,ko,wt,wt,wt,wt,wt,wt,333333
+Ablated,ko,wt,wt,ko,wt,wt,wt,333333
+Ablated,ko,wt,ko,wt,wt,wt,wt,333333
+Ablated,ko,wt,ko,ko,wt,wt,wt,333333
+Ablated,ko,ko,wt,wt,wt,wt,wt,111111
+Ablated,ko,ko,wt,ko,wt,wt,wt,111111
+Ablated,ko,ko,ko,wt,wt,wt,wt,333333
+Ablated,ko,ko,ko,ko,wt,wt,wt,333333
+Ablated,gf,wt,wt,wt,wt,wt,wt,222222
+Ablated,gf,wt,wt,ko,wt,wt,wt,222222
+Ablated,gf,wt,ko,wt,wt,wt,wt,222222
+Ablated,gf,wt,ko,ko,wt,wt,wt,222222
+Ablated,gf,ko,wt,wt,wt,wt,wt,111111,111112,111121,111211,111212,111221,112111,112112,112121,112211,112212,121111,121112,121121,121211,121212,121221,122111,122112,122121,211111,211112,211121,211211,211212,211221,212111,212112,212121,212211,212212
+Ablated,gf,ko,wt,ko,wt,wt,wt,111111
+Ablated,gf,ko,ko,wt,wt,wt,wt,222222
+Ablated,gf,ko,ko,ko,wt,wt,wt,222222

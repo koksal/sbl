@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./scripts/set-program-and-spec VPC1 vpc
+sbt "run --solve"

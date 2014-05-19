@@ -1,0 +1,5 @@
+#!/bin/bash
+cd programs
+ln -sf ${1}.scala current-program
+cd ../specifications
+ln -sf ${2} current-specification
